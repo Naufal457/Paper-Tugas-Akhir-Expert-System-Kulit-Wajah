@@ -1,3 +1,4 @@
 Zack Porto
 - Konsisten untuk membuat konten 2x seminggu
 - membuat platform untuk pengelolaan video
+- Membuat Forum Diskusi
